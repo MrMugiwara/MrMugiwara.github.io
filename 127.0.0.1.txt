@@ -1,0 +1,34 @@
+MR.Robot@Hacker404:~$whoami && whois 127.0.0.1
+
+
+
+Hi, my name is Soufiane Boussali (A.K.A. Hacker404).
+
+I'm an independent security bugs hunter focused on webapp security. Currently, I'm studying Computer Systems And Networking at EFET Institute Meknes, Morocco.
+
+I work as a Security Researcher at HackerOne and BugCrowd.
+
+The following list contains some of the companies I have collaborated with, and they included me in their security acknowledgements page for reporting valid security issues:
+
+
+    Microsoft : Microsoft HALL OF FAME
+
+    Mundiapolis International University Casablanca: Aknowledgment Whitehat Security
+
+
+
+If you would like to get in touch with me, whether it be for tech support, a professional work, or to just say hi, feel free to send me an email.
+
+
+@Email : soufiane.boussali@efet.ac.ma
+
+Facebook: Soufian Boussali
+
+Twitter: @soufian_hamada
+
+
+Github: Soufiane Boussali
+
+
+Best Regards,
+By Soufiane Boussali .
