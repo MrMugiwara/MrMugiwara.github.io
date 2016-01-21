@@ -6,11 +6,12 @@ Currently, I studied Computer Systems And Networking at EFET Institute Meknes, M
 <p>The following list contains some of the companies I have 
 collaborated with, and they included me in their security 
 acknowledgements page for reporting valid security issues:</p><br><ul style="list-style-type:circle">
-<br>  <li>Microsoft   : <a href="https://technet.microsoft.com/en-us/security/cc308589">Microsoft HALL OF FAME</a></li>
-<br> <li>IBM Company : <a href="http://www.ibm.com/thanks">IBM HALL OF FAME comming Soon</a></li>
-<br> <li>Ebay : <a href="http://pages.ebay.com/securitycenter/ResearchersAcknowledgement.html">Ebay HALL OF FAME</a></li>
-<br> <li>ESET Technology : <a href="http://www.eset.com/thanks/">ESET Acknowledgment WhiteHat Security</a></li>
-<br> <li>AVG Company : <a href="http://www.avg.com/thanks">AVG Acknowledgment WhiteHat Security</a></li>
+<br>  <li>Microsoft Company : <a href="https://technet.microsoft.com/en-us/security/cc308589">Microsoft HALL OF FAME</a></li>
+
+<br>  <li>IBM Company    : <a href="http://www.ibm.com/thanks">IBM HALL OF FAME comming Soon</a></li>
+<br>  <li>Ebay Company   : <a href="http://pages.ebay.com/securitycenter/ResearchersAcknowledgement.html">Ebay HALL OF FAME</a></li>
+<br>  <li>ESET Technology : <a href="http://www.eset.com/thanks/">ESET Technology Acknowledgment</a></li>
+<br>  <li>AVG Company : <a href="http://www.avg.com/thanks">AVG Acknowledgment</a></li>
 <br>  <li>Mundiapolis International University Casablanca: <a href="http://mundiapolis.ma">Aknowledgment Whitehat Security</a></li> 
 </ul>
 <br>If you would like to get in touch with me, whether it be for tech support, a professional work, or to just say hello, feel free to Contact me any Time :) 
