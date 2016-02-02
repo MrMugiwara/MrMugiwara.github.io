@@ -23,5 +23,5 @@ acknowledgements page for reporting valid security issues:</p><br><ul style="lis
 <br><p>
 <br>Github: <a href="https://github.com/hacker404">Soufiane Boussali</a>
 <br></p><p>
-<br>Best Regards,</p>
+<br>Kind Regards,</p>
 <br>By Soufiane Boussali.|
