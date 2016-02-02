@@ -1,7 +1,8 @@
 <span id="a">MR.Robot@Hacker404</span>:<span id="b">~</span><span id="c">$</span>whoami && whois 127.0.0.1<br><br>
 <br>Hi, my name is Soufiane Boussali (A.K.A. Hacker404).
 <p>26 Years, Moroccan Student Based Security Researcher & bugs hunter focused on webapp/websys & Software security. 
-Currently, I studied Computer Systems And Networking at EFET Institute Meknes, Morocco.</p>
+Currently, I studied Computer Systems And Networking at EFET Institute Meknes, Morocco.<br>
+open source developer interested open hardware Like a raspberry pi</p>
 <p>I work as a HelpDesk IT Solutions at <a href="http://atos.net/en-us/home.html">ATOS MAROC</a> and as an Independant Security Researcher at <a href="https://hackerone.com/">HackerOne</a> and <a href="https://bugcrowd.com/">BugCrowd</a> & <a href="https://internetbugbounty.org/">The Internet Bug Bounty</a>.</p>
 <p>The following list contains some of the companies I have 
 collaborated with, and they included me in their security 
