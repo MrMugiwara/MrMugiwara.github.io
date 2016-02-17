@@ -1,4 +1,4 @@
-<span id="a">MR.Robot@Hacker404</span>:<span id="b">~</span><span id="c">$</span>cat flag.txt<br><br>
+<span id="a">MR.Mugiwara@Hacker404</span>:<span id="b">~</span><span id="c">$</span>cat flag.txt<br><br>
 <br>Hi, my name is Soufiane Boussali, 
 <p>26 Years, Moroccan WhiteHat Hacker, Student Based Security Researcher & bugs hunter focused on webapp/websys & Software security. 
 Currently, I studied Computer Systems And Networking at EFET Institute Meknes, Morocco.<br>
@@ -21,7 +21,7 @@ acknowledgements page for reporting valid security issues:</p><br><ul style="lis
 @Email : <a href="mailto:soufiane.boussali@efet.ac.ma">soufiane.boussali@efet.ac.ma</a><br>
 Facebook: <a href="https://facebook.com/soufian.ckin2u">Soufian Boussali</a><br>
 Twitter: <a href="https://twitter.com/soufian_hamada">@soufian_hamada</a><br>
-Github: <a href="https://github.com/Mugiwra">Soufiane Boussali</a><br>
+Github: <a href="https://github.com/MrMugiwara">Soufiane Boussali</a><br>
 </p><p>
 <br>Kind Regards,</p>
 <br>By Soufiane Boussali.|
