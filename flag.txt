@@ -1,4 +1,4 @@
-<span id="a">MR.Robot@Hacker404</span>:<span id="b">~</span><span id="c">$</span>whoami && whois 127.0.0.1<br><br>
+<span id="a">MR.Robot@Hacker404</span>:<span id="b">~</span><span id="c">$</span>cazt flag.txt<br><br>
 <br>Hi, my name is Soufiane Boussali, 
 <p>26 Years, Moroccan WhiteHat Hacker, Student Based Security Researcher & bugs hunter focused on webapp/websys & Software security. 
 Currently, I studied Computer Systems And Networking at EFET Institute Meknes, Morocco.<br>
