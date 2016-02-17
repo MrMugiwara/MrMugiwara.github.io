@@ -21,7 +21,7 @@ acknowledgements page for reporting valid security issues:</p><br><ul style="lis
 @Email : <a href="mailto:soufiane.boussali@efet.ac.ma">soufiane.boussali@efet.ac.ma</a><br>
 Facebook: <a href="https://facebook.com/soufian.ckin2u">Soufian Boussali</a><br>
 Twitter: <a href="https://twitter.com/soufian_hamada">@soufian_hamada</a><br>
-Github: <a href="https://github.com/hacker404">Soufiane Boussali</a><br>
+Github: <a href="https://github.com/Mugiwra">Soufiane Boussali</a><br>
 </p><p>
 <br>Kind Regards,</p>
 <br>By Soufiane Boussali.|
