@@ -1,21 +1,20 @@
 <span id="a">MR.Mugiwara@Root</span>:<span id="b">~</span><span id="c">$</span>cat flag{Mr.Mugiwara}.txt<br><br>
-<br>Hi, my name is Soufiane Boussali, 
-<p>26 Years, Moroccan WhiteHat Hacker, Student Based Security Researcher & bugs hunter focused on webapp/websys & Software security. 
-Currently, I studied Computer Systems And Networking at EFET Institute Meknes, Morocco.<br>
-developer Softwares & Open Source interested To Open Hardwares Like a raspberry pi,
-I Speak C/c++,HTML,JS,VB,SQL, And Python.</p>
+<br>Hi, my name is Soufiane Boussali,
+<p>26 Years, Moroccan Security Researcher & bugs Bounty Hunter focused on webapp/websys & Software security, 
+Developer Softwares & Open Source interested To Open Hardwares Like a raspberry pi,
+I Speak C/c++,HTML,JS,VB,SQL, And Python.</p><br>
 <p>I work as a HelpDesk IT Solutions at <a href="http://atos.net/en-us/home.html">ATOS MAROC</a> and as an Independant Security Researcher at <a href="https://hackerone.com/">HackerOne</a> and <a href="https://bugcrowd.com/">BugCrowd</a> & <a href="https://internetbugbounty.org/">The Internet Bug Bounty</a>.</p>
 <p>The following list contains some of the companies I have 
 collaborated with, and they included me in their security 
 acknowledgements page for reporting valid security issues:</p><br><ul style="list-style-type:circle">
 <br>  <li>Google Company : <a href="https://www.google.com/about/appsecurity/hall-of-fame/distinction/"> Google HALL OF FAME </a></li>
 <br>  <li>Python Company : <a href="http://bugs.python.org">Python Aknowledgment</a></li>
-<br>  <li>Microsoft Company  : <a href="https://technet.microsoft.com/en-us/security/cc308575">Microsoft HALL OF FAME</a></li>
-<br>  <li>IBM Company : <a href="http://www-01.ibm.com/support/docview.wss?uid=swg21975358">IBM Aknowledgment (CVE-2016-0212, CVE-2016-0213, CVE-2016-0216)</a></li>
+<br>  <li>Microsoft Company : <a href="https://technet.microsoft.com/en-us/security/cc308575">Microsoft HALL OF FAME</a></li>
+<br>  <li>IBM Company : <a href="http://www-01.ibm.com/support/docview.wss?uid=swg21975358">IBM Aknowledgment (CVE-2016-0212, CVE-2016-0213, CVE-2016-0216) :</a></li>
 
-<br>  <li>Security Focus From IBM Company : <a href="http://www.securityfocus.com/bid/83281">  CVE-2016-0213 </a></li>
+<br>  <ul><li>Security Focus From IBM Company : <a href="http://www.securityfocus.com/bid/83281">  CVE-2016-0213 </a></li>
 <br>  <li>Security Focus From IBM Company : <a href="http://www.securityfocus.com/bid/83278">  CVE-2016-0212 </a></li>
-<br>  <li>Security Focus From IBM Company : <a href="http://www.securityfocus.com/bid/83280">  CVE-2016-0216 </a></li>
+<br>  <li>Security Focus From IBM Company : <a href="http://www.securityfocus.com/bid/83280">  CVE-2016-0216 </a></li></ul>
 
 <br>  <li>ESET Technology : <a href="http://www.eset.com/">ESET Technology Acknowledgment</a></li>
 <br>  <li>AVG Company : <a href="http://www.avg.com/thanks">AVG Acknowledgment</a></li>
