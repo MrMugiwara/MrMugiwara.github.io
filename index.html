@@ -1,14 +1,14 @@
 <html><head>
-<meta http-equiv="content-type" content="text/html; charset=windows-1252"> 
-<title>  Soufiane Boussali </title> 
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+<title>  Soufiane Boussali </title>
  <meta property="og:title" content="Soufiane Boussali">
- <meta property="og:type" content="Website"> 
-<meta property="og:description" content="Some Information about Soufiane Boussali">  
-<meta property="og:url" content="http://MrMugiwara.github.io/"> 
-<meta property="og:image" content="https://avatars3.githubusercontent.com/u/7062695?v=3&s=460"> 
+ <meta property="og:type" content="Website">
+<meta property="og:description" content="Some Information about Soufiane Boussali">
+<meta property="og:url" content="http://MrMugiwara.github.io/">
+<meta property="og:image" content="https://avatars3.githubusercontent.com/u/7062695?v=3&s=460">
 <script src="/files/ga.js" async="" type="text/javascript"></script>
-<script type="text/javascript" src="/files/jquery.js"></script> 
-<style type="text/css"> 
+<script type="text/javascript" src="/files/jquery.js"></script>
+<style type="text/css">
 	body {
 		background-color: #000
 	}
@@ -34,10 +34,10 @@
 	#b {
 		color: #00fb00;
 	}
-</style> 
-</head> 
-<body> 
-<script type="text/javascript"> 
+</style>
+</head>
+<body>
+<script type="text/javascript">
 	var Typer={
 	text: null,
 	accessCountimer:null,
@@ -53,16 +53,16 @@
 			Typer.text = Typer.text.slice(0, Typer.text.length-1);
 		});
 	},
- 
+
 	content:function(){
 		return $("#console").html();// get console content
 	},
- 
+
 	write:function(str){// append to console content
 		$("#console").append(str);
 		return false;
 	},
- 
+
 	makeAccess:function(){//create Access Granted popUp      FIXME: popup is on top of the page and doesn't show is the page is scrolled
 		Typer.hidepop(); // hide all popups
 		Typer.accessCount=0; //reset count
@@ -81,15 +81,15 @@
 		$(document.body).prepend(ddiv);// prepend div to body
 		return false;
 	},
- 
+
 	hidepop:function(){// remove all existing popups
 		$("#deni").remove();
 		$("#gran").remove();
 	},
- 
+
 	addText:function(key){//Main function to add the code
 		if(key.keyCode==18){// key 18 = alt key
-			Typer.accessCount++; //increase counter 
+			Typer.accessCount++; //increase counter
 			if(Typer.accessCount>=3){// if it's presed 3 times
 				Typer.makeAccess(); // make access popup
 			}
@@ -107,36 +107,36 @@
 			if(key.keyCode!=8){ // if key is not backspace
 				Typer.index+=Typer.speed;	// add to the index the speed
 			}else{
-				if(Typer.index>0) // else if index is not less than 0 
+				if(Typer.index>0) // else if index is not less than 0
 					Typer.index-=Typer.speed;//	remove speed for deleting text
 			}
 			var text=Typer.text.substring(0,Typer.index)// parse the text for stripping html enities
 			var rtn= new RegExp("\n", "g"); // newline regex
-	
+
 			$("#console").html(text.replace(rtn,"<br/>"));// replace newline chars with br, tabs with 4 space and blanks with an html blank
 			window.scrollBy(0,50); // scroll to make sure bottom is always visible
 		}
 		if ( key.preventDefault && key.keyCode != 122 ) { // prevent F11(fullscreen) from being blocked
 			key.preventDefault()
-		};  
+		};
 		if(key.keyCode != 122){ // otherway prevent keys default behavior
 			key.returnValue = false;
 		}
 	},
- 
+
 	updLstChr:function(){ // blinking cursor
-		var cont=this.content(); // get console 
+		var cont=this.content(); // get console
 		if(cont.substring(cont.length-1,cont.length)=="|") // if last char is the cursor
 			$("#console").html($("#console").html().substring(0,cont.length-1)); // remove it
 		else
 			this.write("|"); // else write it
 	}
 }
- 
+
 function replaceUrls(text) {
 	var http = text.indexOf("http://");
 	var space = text.indexOf(".me ", http);
-	if (space != -1) { 
+	if (space != -1) {
 		var url = text.slice(http, space-1);
 		return text.replace(url, "<a href=\""  + url + "\">" + url + "</a>");
 	} else {
@@ -146,7 +146,7 @@ function replaceUrls(text) {
 Typer.speed=3;
 Typer.file="flag{Mr.Mugiwara}.txt";
 Typer.init();
- 
+
 var timer = setInterval("t();", 30);
 function t() {
 	Typer.addText({"keyCode": 123748});
@@ -154,29 +154,30 @@ function t() {
 		clearInterval(timer);
 	}
 }
-</script> 
+</script>
 <div id="console"><span id="a">MR.Mugiwara@Root</span>:<span id="b">~</span><span id="c">$</span>cat flag.txt <br><br>
 <br>Hi, my name is Soufiane Boussali,
-<p>26 Years, Moroccan Security Researcher & bugs Bounty Hunter Focused on WebApp/WebSys & Mobile Softwares Security, 
+<p>26 Years, Moroccan Security Researcher & bugs Bounty Hunter Focused on WebApp/WebSys & Mobile Softwares Security,
 Developer Softwares & Open Source interested To Open Hardwares Like a raspberry pi,
 I Speak C/c++,HTML,JS,VB,SQL, And Python.</p><br>
 <p>I work as a HelpDesk IT Solutions at <a href="http://atos.net/en-us/home.html">ATOS MAROC</a> and as an Independant Security Researcher at <a href="https://hackerone.com/">HackerOne</a> and <a href="https://bugcrowd.com/">BugCrowd</a> & <a href="https://internetbugbounty.org/">The Internet Bug Bounty</a>.</p>
-<p>The following list contains some of the companies I have 
-collaborated with, and they included me in their security 
+<p>The following list contains some of the companies I have
+collaborated with, and they included me in their security
 acknowledgements page for reporting valid security issues:</p><br><ul style="list-style-type:circle">
 <br>  <li>Google Company : <a href="https://www.google.com/about/appsecurity/hall-of-fame/distinction/"> Google HALL OF FAME </a></li>
 <br>  <li>Python Company : <a href="http://bugs.python.org">Python Aknowledgment</a></li>
 <br>  <li>Microsoft Company : <a href="https://technet.microsoft.com/en-us/security/cc308575">Microsoft HALL OF FAME</a></li>
 <br>  <li>IBM Company : <a href="http://www-01.ibm.com/support/docview.wss?uid=swg21975358">IBM Aknowledgment (CVE-2016-0212, CVE-2016-0213, CVE-2016-0216)</a></li>
-<br>  <ul><li>National Cyber Awareness System : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0212">  CVE-2016-0212 </a></li>
-<br>  <li>National Cyber Awareness System : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0213">  CVE-2016-0213 </a></li>
-<br>  <li>National Cyber Awareness System : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0216">  CVE-2016-0216 </a></li></ul>
+
+<br><ul><li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0212">  CVE-2016-0212 </a></li>
+<br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0213">  CVE-2016-0213 </a></li>
+<br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0216">  CVE-2016-0216 </a></li></ul>
 
 <br>  <li>ESET Technology : <a href="http://www.eset.com">ESET Technology Acknowledgment</a></li>
 <br>  <li>AVG Company : <a href="http://www.avg.com/thanks">AVG Acknowledgment</a></li>
-<br>  <li>Mundiapolis International University Casablanca: <a href="http://mundiapolis.ma">Aknowledgment Whitehat Security</a></li> 
+<br>  <li>Mundiapolis International University Casablanca: <a href="http://mundiapolis.ma">Aknowledgment Whitehat Security</a></li>
 </ul>
-<br>If you would like to get in touch with me, whether it be for tech support, a professional work, or to just say hello, feel free to send me an email. 
+<br>If you would like to get in touch with me, whether it be for tech support, a professional work, or to just say hello, feel free to send me an email.
 <br>
 @Email : <a href="mailto:soufiane.boussali@efet.ac.ma">soufiane.boussali@efet.ac.ma</a><br>
 Facebook: <a href="https://facebook.com/soufian.ckin2u">Soufian Boussali</a><br>
@@ -185,7 +186,7 @@ Github: <a href="https://github.com/MrMugiwara">Soufiane Boussali</a>
 <br></p><p>
 <br>Kind Regards,
 <br>By Soufiane Boussali. |</p>
- </div> 
+ </div>
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-610661-7']);
