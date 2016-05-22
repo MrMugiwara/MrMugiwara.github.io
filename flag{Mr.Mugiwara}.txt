@@ -2,11 +2,6 @@
 <<<<<<< Updated upstream
 <br>Hi, my name is Soufiane Boussali 
 <p>26 Years, Moroccan Security Researcher & bugs Bounty Hunter Focused on WebApp/WebSys & Mobile Softwares Security, 
-=======
-<br>Hi, my name is Soufiane Boussali,
-<<<<<<< Updated upstream
-<p>26 Years, Moroccan Security Researcher & bugs Bounty Hunter Focused on WebApp/WebSys & Mobile Softwares Security,
->>>>>>> Stashed changes
 Developer Softwares & Open Source interested To Open Hardwares Like a raspberry pi,
 I Speak C/c++,HTML,JS,VB,SQL, And Python.</p><br>
 <p>I work as a HelpDesk IT Solutions at <a href="http://atos.net/en-us/home.html">ATOS Morocco</a> and as an Independant Security Researcher at <a href="https://hackerone.com/">HackerOne</a> and <a href="https://bugcrowd.com/">BugCrowd</a> & <a href="https://internetbugbounty.org/">The Internet Bug Bounty</a>.</p>
@@ -19,10 +14,6 @@ I Speak C/c++,HTML,JS,VB,SQL, And Python.</p><br>
 <br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0213">  CVE-2016-0213 </a></li>
 <br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0216">  CVE-2016-0216 </a></li></ul>
 <br>  <li>ESET Technology : <a href="http://www.eset.com/">ESET Technology Acknowledgment</a></li>
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 <br>  <li>AVG Company : <a href="http://www.avg.com/thanks">AVG Acknowledgment</a></li>
 <br>  <li>Mundiapolis International University Casablanca: <a href="www.mundiapolis.ma">Aknowledgment Whitehat Security</a></li>
 </ul>
