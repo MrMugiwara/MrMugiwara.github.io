@@ -8,7 +8,7 @@ Player Capture The Flag Challenges, I Speak C/c++,HTML,JS,VB,SQL, And Python.</p
 <br>  <li>Google Company : <a href="https://www.google.com/about/appsecurity/hall-of-fame/distinction/"> Google HALL OF FAME </a></li>
 <br>  <li>Python Company : <a href="http://bugs.python.org">Python Fixed Issue</a></li>
 <br>  <li>Microsoft Company : <a href="https://technet.microsoft.com/en-us/security/cc308575">Microsoft HALL OF FAME</a></li>
-<br>  <li>IBM Company : <a href="http://www-01.ibm.com/support/docview.wss?uid=swg21975358">IBM 0Day Exploits (CVE-2016-0212, CVE-2016-0213, CVE-2016-0216) :</a></li>
+<br>  <li>IBM Company : <a href="http://www-01.ibm.com/support/docview.wss?uid=swg21975358">IBM 0Day Exploits :</a></li>
 <br><ul><li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0212">  CVE-2016-0212 </a></li>
 <br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0213">  CVE-2016-0213 </a></li>
 <br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0216">  CVE-2016-0216 </a></li></ul>
