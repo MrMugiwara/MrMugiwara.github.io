@@ -3,7 +3,8 @@
 <p>26 Years, Moroccan Hacking Enthusiast Focused on WebApp/WebSys & Mobile Softwares Security,
 Developer Softwares & Open Source, interested To Open Hardwares Like a raspberry pi,
 Player Capture The Flag Challenges, I Speak C/c++,HTML,JS,VB,SQL, And Python.</p><br>
-<p>I work as a Technician HelpDesk IT Solutions at <a href="http://atos.net/en-us/home.html">ATOS Morocco</a> and Security Researcher For 0day Exploits At <a href="http://www.zerodayinitiative.com/">Zero Day Initiative</a> and As An Independant Bugs Hunting At <a href="https://hackerone.com/">HackerOne</a> and <a href="https://bugcrowd.com/">BugCrowd</a> & <a href="https://internetbugbounty.org/">The Internet Bug Bounty</a>.</p>
+<p>I work as a Technician HelpDesk IT Solutions at <a href="http://atos.net/en-us/home.html">ATOS Morocco</a> and Security Researcher 
+At <a href="http://www.zerodayinitiative.com/">Trend Micro's Zero Day Initiative</a> and As An Independant Bugs Hunting At <a href="https://hackerone.com/">HackerOne</a> and <a href="https://bugcrowd.com/">BugCrowd</a> & <a href="https://internetbugbounty.org/">The Internet Bug Bounty</a>.</p>
 <p>The following list contains some of the companies I have collaborated with, and they included me in their security  acknowledgements page for reporting valid security issues:</p><br><ul style="list-style-type:circle">
 <br>  <li>Google Company : <a href="https://www.google.com/about/appsecurity/hall-of-fame/distinction/"> Google HALL OF FAME </a></li>
 <br>  <li>Python Company : <a href="http://bugs.python.org">Python Fixed Issue</a></li>
