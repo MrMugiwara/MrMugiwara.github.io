@@ -13,6 +13,7 @@ At <a href="www.trendmicro.com/">Trend Micro's Zero Day Initiative</a> and As An
 <br><ul><li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0212">  CVE-2016-0212 </a></li>
 <br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0213">  CVE-2016-0213 </a></li>
 <br>    <li>National Vulnerability Database : <a href="https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0216">  CVE-2016-0216 </a></li></ul>
+<br>  <li>Wordpress : <a href="https://wpvulndb.com/vulnerabilities/8425">Wordpress Acknowledgment</a></li>
 <br>  <li>ESET Technology : <a href="http://www.eset.com/">ESET Technology Acknowledgment</a></li>
 <br>  <li>AVG Company : <a href="http://www.avg.com/thanks">AVG Acknowledgment</a></li>
 <br>  <li>Mundiapolis International University Casablanca: <a href="www.mundiapolis.ma">Aknowledgment Whitehat Security</a></li>
