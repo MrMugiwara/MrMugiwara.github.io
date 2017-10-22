@@ -1,5 +1,5 @@
--<span id="a">MR.Mugiwara@Root</span>:<span id="b">~</span><span id="c">$</span>cat flag{Mr.Mugiwara}.txt<br><br>
-+
+<span id="a">MR.Mugiwara@Root</span>:<span id="b">~</span><span id="c">$</span>cat flag{Mr.Mugiwara}.txt<br><br>
+
 <br>Hi, my name is Soufiane Boussali
 <p>28 Years, Moroccan Hacking Enthusiast Focused on Web-Applications/Systms-Applications & Mobile Softwares Security,
 Developer Softwares & Open Source, interested To Open Hardwares Like a raspberry pi,
